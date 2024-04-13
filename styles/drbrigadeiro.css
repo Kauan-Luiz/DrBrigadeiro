@@ -1,0 +1,28 @@
+
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box; 
+}
+
+body {
+    background-color: beige;
+}
+
+.logo {
+    color: purple;
+    font-size: 20pt;
+}
+
+.btn {
+    border: none;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 12px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px  2px black;
+    cursor: pointer;
+}
