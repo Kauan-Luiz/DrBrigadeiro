@@ -9,6 +9,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
 
 .lista {
@@ -24,7 +25,8 @@ header {
 }
 
 .nav_li a {
-    color: purple;
+    color:#F08080;
     border-bottom: 2px solid black;
      
 }
+
