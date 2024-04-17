@@ -41,7 +41,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-top: 160px;
+    background-color: #FAEBD7;
+    border-radius: 70px;
+    margin-top: 50px;
+    border: dotted 6px #F08080;
 }
 
 .contrate  {
@@ -59,7 +62,12 @@ body {
     display: grid;
     justify-content: center; 
     align-items: center;
-    margin: 30px    ;
+    margin: 30px;
 }
 
+.insta {
+    width: 650px;
+    height: 100%;
+    filter: drop-shadow(5px 5px 10px #222);
+}
 
